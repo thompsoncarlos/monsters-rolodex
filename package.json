@@ -4,7 +4,6 @@
   "private": true,
   "homepage": "https://thompsoncarlos.github.io/monsters-rolodex/",
   "dependencies": {
-    "gh-pages": "^6.1.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1"
@@ -33,5 +32,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
